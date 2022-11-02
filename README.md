@@ -1,6 +1,7 @@
 # applainces
 
 A new Flutter project.
+![Simulator Screen Shot - iPhone SE (3rd generation) - 2022-11-02 at 11 36 12](https://user-images.githubusercontent.com/96089446/199411076-f5c81bb8-eaf1-441e-8ea4-0d8dde143487.png)
 
 ## Getting Started
 
